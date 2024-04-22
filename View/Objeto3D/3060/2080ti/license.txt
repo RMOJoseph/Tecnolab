@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rtx 2080 ti
+* source:	https://sketchfab.com/3d-models/rtx-2080-ti-dcf8ce333aa945a1961cf1926a2b5250
+* author:	Temoor (https://sketchfab.com/Temooor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rtx 2080 ti" (https://sketchfab.com/3d-models/rtx-2080-ti-dcf8ce333aa945a1961cf1926a2b5250) by Temoor (https://sketchfab.com/Temooor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

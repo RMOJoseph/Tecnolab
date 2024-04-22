@@ -1,0 +1,78 @@
+.body{
+    background-image: url('../../Imagenes/Login/fondo_registro.jfif');
+    margin: 0 auto;
+}
+
+.header{
+    text-align: center;
+    background-color: #000000;
+    display: flex;   
+    justify-content: center;
+    color: white;
+}
+
+.div-container {
+    display: grid;
+    place-items: center;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+    
+    
+}
+
+.div-section {
+    border: 2px black solid;  
+    border-radius: 1.5rem;  
+    width: 30%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(167, 68, 68);
+    
+}
+
+.footer{
+    background-color: black;
+    padding: 2rem;
+    height: 2rem;
+}
+
+
+
+
+.footer p{
+    text-align: left;
+    margin: 0;
+    color: white;
+}
+
+.footer a{
+    padding: 3px;
+    float: right;
+    transition: box-shadow 0.3s ease;
+    text-decoration:none;
+    color:aliceblue ;
+    border: 2px white solid;
+}
+
+.footer a:hover{
+    color: blue;
+    box-shadow: 0 0.2rem 0.2rem white;
+}
+
+/* Media query para tamaños de pantalla más pequeños, por ejemplo, dispositivos móviles */
+@media (max-width: 768px) {
+    .div-container {
+        flex-direction: column; /* Cambia la dirección del flexbox a columna */
+        align-items: center; /* Centra los elementos verticalmente */
+    }
+
+    .div-section {
+        width: 80%; /* Reduce el ancho de .div-section para adaptarse a pantallas más pequeñas */
+        margin: 10px; /* Agrega margen para separar los elementos */
+    }
+}
+
+

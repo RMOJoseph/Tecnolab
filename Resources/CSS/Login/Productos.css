@@ -1,0 +1,109 @@
+.body{
+    margin: 0 auto;
+    background-image: url("../../../../Fondos/fondo18.jpg");
+    
+    
+}
+
+/* .div-container h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+} */
+
+.div-main{
+    
+    margin-top: 2cm;
+    margin-bottom: 5cm;
+    border-radius: 4rem;
+    
+    
+}
+
+.div-format{
+    border: black solid 1px;
+    width: 50%;
+    height: 18rem;
+    margin: 0 auto;
+    border-radius: 2rem;
+    background-color: rgb(63, 233, 233);
+    cursor: pointer;
+    transition: box-shadow 0.5s ease;
+}
+
+.div-container{
+    margin: 0 auto;
+    margin-top: 0.5rem;
+    display: block;
+    width: 50%;
+    text-align: center;
+    border-radius: 2rem;
+    
+}
+
+
+.nombreP{
+    border-radius: 0,5rem;
+}
+
+
+.boton{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0.3rem;
+    display: block;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: box-shadow 0.5s ease;
+}
+
+.div-format:hover{
+    color: blue;
+    box-shadow: 0 0.2rem 0.2rem black;
+}
+
+.boton:hover{
+    color:blue;
+    box-shadow: 0 0.2rem 0.2rem rgb(9, 9, 9);
+}
+
+
+.header{
+    text-align: center;
+    background-color: #000000;
+    display: flex;   
+    justify-content: center;
+    color: white;
+}
+
+
+.footer{
+    background-color: black;
+    padding: 2rem;
+    height: 2rem;
+}
+
+.footer section{
+    float: right;
+    margin: 0;
+}
+
+
+.footer p{
+    text-align: left;
+    margin: 0;
+    color: white;
+}
+
+.footer a{
+    padding: 3px;
+    transition: box-shadow 0.3s ease;
+    text-decoration:none;
+    color:aliceblue ;
+    border: 2px white solid;
+}
+
+.footer a:hover{
+    color: blue;
+    box-shadow: 0 0.2rem 0.2rem white;
+}

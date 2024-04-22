@@ -1,0 +1,93 @@
+.body{
+    margin: 0 auto;
+    background-image: url('../../Imagenes/Fondos/fondo11.jpg');
+    
+}
+
+
+
+.header{
+    text-align: center;
+    background-color: #000000;
+    display: flex;   
+    justify-content: center;
+    color: white;
+}
+
+.navegador{
+    border: black solid 2px;
+    display: flex;
+    
+    
+    
+    
+}
+
+.table{
+    text-align: center;
+    background-color: rgb(113, 181, 226);
+}
+
+.table img{
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+
+.div-nav{
+    width: 12%;
+    text-align: center;
+    background-image: url('../../Imagenes/Index/Vertical.jpg');
+    display: flex;
+    justify-content: left;
+    border-radius: 1rem;
+    height: 100rem;
+}
+
+.div-section{
+    margin: 0 auto;
+    padding-right: 10rem;
+}
+
+
+.navegador a{ color: white}
+
+.table{
+    border: 2px black solid;
+    margin: 0 auto; 
+}
+
+td,tr{
+    border: 2px black solid;
+}
+.footer{
+    background-color: black;
+    padding: 2rem;
+    height: 2rem;
+}
+
+.footer section{
+    float: right;
+    margin: 0;
+}
+
+
+.footer p{
+    text-align: left;
+    margin: 0;
+    color: white;
+}
+
+.footer a{
+    padding: 3px;
+    transition: box-shadow 0.3s ease;
+    text-decoration:none;
+    color:aliceblue ;
+    border: 2px white solid;
+}
+
+.footer a:hover{
+    color: blue;
+    box-shadow: 0 0.2rem 0.2rem white;
+}
