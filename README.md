@@ -1,24 +1,26 @@
 # Tecnolab
 An repository for the project Tecnolab. this project is about solving a problematic of the enterprise Tecnolab.
-Índice
-Introducción
-Resumen
-Desarrollo
-Modelo Vista Controlador: Conceptos Fundamentales
-Implementación del MVC en PHP
-Casos de Uso Prácticos en Desarrollo Web
-Beneficios y Desafíos del MVC en PHP
-Contribución del MVC en PHP al Desarrollo de Aplicaciones Web Robustas
-Conclusión
-Referencias
-Introducción
+#Índice
+Introducción	
+Resumen	
+Desarrollo	
+1. Modelo Vista Controlador: Conceptos Fundamentales	
+2. Implementación del MVC en PHP	
+3. Casos de Uso Prácticos en Desarrollo Web	
+4. Beneficios y Desafíos del MVC en PHP	
+5. Contribución del MVC en PHP al Desarrollo de Aplicaciones Web Robustas	
+Conclusión	6
+Referencias	7
+
+
+#Introducción
 En el vibrante mundo del desarrollo web, donde cada desarrollador busca las herramientas perfectas para construir aplicaciones impresionantes, el Modelo Vista Controlador (MVC) emerge como un conjunto esencial de herramientas que permiten explotar la creatividad al máximo. Este patrón arquitectónico divide las tareas, asigna roles y asegura que la aplicación, en este caso, un e-commerce de componentes de hardware, funcione sin contratiempos.
 
-Resumen
+#Resumen
 Este documento explora los fundamentos del Modelo Vista Controlador (MVC), especialmente en su implementación dentro del entorno PHP. Analizamos desde los componentes básicos del MVC hasta su aplicación práctica en el desarrollo web, destacando cómo este paradigma ayuda a crear aplicaciones web robustas y de fácil mantenimiento.
 Este proyecto abarca la necesidad de la empresa Tecnolab de generar una sistema web para la venta de componentes de hadware, utilizando tecnologias como lo son HTML, CSS,JavaScript,PHP.
 
-Desarrollo
+#Desarrollo
 Modelo Vista Controlador: Conceptos Fundamentales
 El MVC se descompone en tres componentes clave: el Modelo (gestiona los datos y la lógica de negocio), la Vista (encargada de la presentación de datos al usuario), y el Controlador (actúa como el intermediario que procesa las entradas del usuario y las transforma en acciones para el Modelo y la Vista).
 
@@ -45,6 +47,6 @@ El MVC es fundamental en nuestro proyecto de e-commerce, facilitando la implemen
 
 ![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/68521fc1-d88c-45c0-8d97-4ec22df1ebcd)
 
-Conclusión
+#Conclusión
 El MVC es más que un patrón de diseño; es una estrategia fundamental para el desarrollo moderno de aplicaciones web que requieren claridad estructural, mantenimiento simplificado, y capacidad para evolucionar. Aunque presenta desafíos, los beneficios de adoptar MVC en proyectos complejos, como nuestra tienda en línea de componentes de hardware, son indiscutibles.
 Al final se logra concluir con la necesidad de la empresa aplicando el patron de diseño MVC de manera exitosa y garantizando una alta eficiencia en los recursos y seguridad del sistema web, para la empresa Tecnolab.
