@@ -26,7 +26,6 @@ En este proyecto esta aplicacion de la arquitectura se puede ver reflejada en la
 Tambien cabe recalcar que la carpeta resources son los recursos externos a la arquitectura de MVC, teniendo archivos como CSS,JS,Imagenes, etc.
 
 
-/proyecto_tecnolab
 │
 ├── controller
 │   ├── Carrito.php
@@ -53,6 +52,7 @@ Tambien cabe recalcar que la carpeta resources son los recursos externos a la ar
     ├── Librery
     ├── Librery2
     └── Librery3
+
 
 Implementación del MVC en PHP
 La implementación del MVC en PHP promueve una estructura clara y organizada que mejora la eficiencia y mantenibilidad del código. Esto es crucial en aplicaciones como la nuestra, donde la precisión en la presentación y actualización de inventarios de hardware es vital.
