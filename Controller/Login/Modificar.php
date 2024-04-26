@@ -1,4 +1,5 @@
 <?php
+// Realiza una validacion de el formulario recibido por metodo POST y almacena estos datos en variables para modificar a un usuario
 include ('../../Model/Conexion.php');
 if(!empty($_POST["botonregistrar"])){
     if(!empty($_POST["nombre"]) and ($_POST["precio"]) and ($_POST["cantidad"]) and ($_POST["descripcion"]) and ($_FILES['imagen'])){

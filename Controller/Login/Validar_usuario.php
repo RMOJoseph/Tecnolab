@@ -2,7 +2,7 @@
 include('../../Model/Conexion.php');
 include('../../Resources/JS/Login/Ingreso_fallido.js');
 session_start();
-
+// Realiza una validacion por metodo POST para validar a un usuario existente en la BD
 if(isset($_POST['correo']) && isset($_POST['contra'])){
     
     $correo = $_POST['correo'];

@@ -14,6 +14,7 @@
     $nombre_usuario = $_SESSION['nombre_usuario'];
     $bienvenida = "Bienvenido a Tecnolab Administrador ";
 ?>
+<!-- se toman los datos y se van actualizando en tiempo real mediante peticiones al modelo y el inicio de una sesion -->
 <body class="body">
     <header class="header">
         <h1 id="inicio"><?php echo $bienvenida; ?></h1>     

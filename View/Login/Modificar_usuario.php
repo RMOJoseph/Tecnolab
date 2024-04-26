@@ -2,7 +2,7 @@
 include('../../Model/Conexion.php');
 $id = $_GET['id'];
 include('../../Model/Login/Mostrar_usuarios_modificar.php');
-// $sql = $conn->query("select * from productos where id_producto=$id");
+// se toma la conexion para poder mandar a llamar al controlador
 
 ?>
 <!DOCTYPE html>

@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="../../Resources/CSS/Login/Registro.css">
     
 </head>
+
+<!-- Se registran a los usuarios mediante formularios que son enviados al controlador -->
 <body class="body">
     <header class="header">
         <h1 id="inicio">Tecnolab<h1>

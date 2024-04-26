@@ -1,8 +1,8 @@
 <?php
-
+// Pide al modelo la conexion de la BD
 include ('../../Model/Conexion.php');
 
-
+// Valida lo recibido por metodo POST para agregar un producto a la BD
 if(!empty($_POST["botonregistrar"])){
     if(!empty($_POST["nombre"]) and !empty($_POST["precio"]) and !empty($_POST["cantidad"]) and !empty($_POST["descripcion"]) and !empty($_FILES['imagen'])){
         

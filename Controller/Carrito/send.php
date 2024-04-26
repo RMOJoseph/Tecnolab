@@ -2,11 +2,11 @@
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
-
+// toma las librerias necesarias
 require 'phpmailer/src/Exception.php';
 require 'phpmailer/src/PHPMailer.php';
 require 'phpmailer/src/SMTP.php';
-
+// Validacion del formulario y almacena los datos para poder enviar a un correo la informacion necesaria
 if(isset($_POST["send"])){
     $mail = new PHPMailer(true);
 

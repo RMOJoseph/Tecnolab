@@ -11,6 +11,7 @@
     $nombre_usuario = $_SESSION['nombre_usuario'];
     $bienvenida = "Bienvenido a Tecnolab $nombre_usuario";
 ?>
+<!-- Se validan los datos de los usuarios iniciando una sesion y realizando validaciones con la BD -->
 <body class="body"> 
     <header class="header">
         <h1 id="inicio"><?php echo $bienvenida; ?></h1>

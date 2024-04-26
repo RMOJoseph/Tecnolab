@@ -6,6 +6,7 @@
     <title>Registro</title>
     <link rel="stylesheet" href="../../Resources/CSS/Login/Productos.css">
 </head>
+<!-- Se registran los productos mediante formularios que seran enviados al controlador -->
 <body class="body">
     <header class="header">
         <h1 >Tecnolab<h1>

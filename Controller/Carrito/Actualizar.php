@@ -1,7 +1,7 @@
 <?php
 session_start();
 include('../../Model/Conexion.php');
-
+// Recibe la peticion por metodo POST y valida el formulario y actualiza el carrito
 if (!empty($_POST["actualizar"]) && isset($_POST["cantidad"])) {
     $id = $_POST['actualizar'];
     $cantidad = $_POST['cantidad'];

@@ -1,7 +1,7 @@
 <?php
 session_start();
 include('../../Model/Conexion.php');
-
+// Recibe la peticion por metodo POST y valida el formulario y agregar cosas a el carrito
 if (!empty($_GET["agregar"]) && isset($_GET["cantidad"])) {
     $id = $_GET['agregar'];
     $cantidad = $_GET['cantidad'];
