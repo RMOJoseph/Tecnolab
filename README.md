@@ -53,6 +53,7 @@ Tambien cabe recalcar que la carpeta resources son los recursos externos a la ar
     ├── Librery2
     └── Librery3
 
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/68521fc1-d88c-45c0-8d97-4ec22df1ebcd)
 
 Implementación del MVC en PHP
 La implementación del MVC en PHP promueve una estructura clara y organizada que mejora la eficiencia y mantenibilidad del código. Esto es crucial en aplicaciones como la nuestra, donde la precisión en la presentación y actualización de inventarios de hardware es vital.
