@@ -24,6 +24,8 @@ El MVC se descompone en tres componentes clave: el Modelo (gestiona los datos y 
 
 En este proyecto esta aplicacion de la arquitectura se puede ver reflejada en las carpetas Model, View, Controller donde cada una tiene su funcionalidad que permitira que el sistema web funcione, donde dentro de estas carpetas existen subcarpetas que dividen aun mas por funcionalidad por ejemplo cada parte de la arquitectura de MVC contiene:
 Tambien cabe recalcar que la carpeta resources son los recursos externos a la arquitectura de MVC, teniendo archivos como CSS,JS,Imagenes, etc.
+
+
 /proyecto_tecnolab
 │
 ├── controller
