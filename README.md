@@ -26,34 +26,10 @@ En este proyecto esta aplicacion de la arquitectura se puede ver reflejada en la
 Tambien cabe recalcar que la carpeta resources son los recursos externos a la arquitectura de MVC, teniendo archivos como CSS,JS,Imagenes, etc.
 
 
-│
-├── controller
-│   ├── Carrito.php
-│   ├── Grafica.php
-│   └── Login.php
-│
-├── model
-│   ├── Carrito.php
-│   ├── Grafica.php
-│   ├── Login.php
-│   ├── conexion.php
-│   └── tecnolab.sql
-│
-├── view
-│   ├── carrito
-│   ├── grafica
-│   ├── login
-│   └── Objeto3D
-│
-└── resources
-    ├── CSS
-    ├── JS
-    ├── Imagenes
-    ├── Librery
-    ├── Librery2
-    └── Librery3
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/e19f4281-5e0d-44f8-a623-f048436742a8)
 
-![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/68521fc1-d88c-45c0-8d97-4ec22df1ebcd)
+
+
 
 Implementación del MVC en PHP
 La implementación del MVC en PHP promueve una estructura clara y organizada que mejora la eficiencia y mantenibilidad del código. Esto es crucial en aplicaciones como la nuestra, donde la precisión en la presentación y actualización de inventarios de hardware es vital.
@@ -66,6 +42,8 @@ Los beneficios del MVC incluyen la modularidad y la facilidad de mantenimiento d
 
 Contribución del MVC en PHP al Desarrollo de Aplicaciones Web Robustas
 El MVC es fundamental en nuestro proyecto de e-commerce, facilitando la implementación de características complejas y la colaboración eficiente entre diferentes desarrolladores, lo que resulta en un código más robusto y escalable.
+
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/68521fc1-d88c-45c0-8d97-4ec22df1ebcd)
 
 Conclusión
 El MVC es más que un patrón de diseño; es una estrategia fundamental para el desarrollo moderno de aplicaciones web que requieren claridad estructural, mantenimiento simplificado, y capacidad para evolucionar. Aunque presenta desafíos, los beneficios de adoptar MVC en proyectos complejos, como nuestra tienda en línea de componentes de hardware, son indiscutibles.
