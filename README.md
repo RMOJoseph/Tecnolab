@@ -1,16 +1,28 @@
 # Tecnolab
 An repository for the project Tecnolab. this project is about solving a problematic of the enterprise Tecnolab.
+
+Romero Martinez Joseph Gerardo
+
+Ensayo de modelo-vista-controlador de un sistema web en PHP.
+
+Instituto Tecnológico Nacional de México Campus Tláhuac I.
+
+Ingeniería en Sistemas Computacionales.
+
+Grupo 8S2. Programación PHP con MVC.
+
+21 de marzo de 2024.
 # Índice
-Introducción	
-Resumen	
-Desarrollo	
-1. Modelo Vista Controlador: Conceptos Fundamentales	
-2. Implementación del MVC en PHP	
-3. Casos de Uso Prácticos en Desarrollo Web	
-4. Beneficios y Desafíos del MVC en PHP	
-5. Contribución del MVC en PHP al Desarrollo de Aplicaciones Web Robustas	
-Conclusión	6
-Referencias	7
+1.Introducción	
+2.Resumen	
+3.Desarrollo	
+4. Modelo Vista Controlador: Conceptos Fundamentales	
+5. Implementación del MVC en PHP	
+6. Casos de Uso Prácticos en Desarrollo Web	
+7. Beneficios y Desafíos del MVC en PHP	
+8. Contribución del MVC en PHP al Desarrollo de Aplicaciones Web Robustas	
+9. Conclusión	
+10. Referencias	
 
 
 # Introducción
