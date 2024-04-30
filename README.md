@@ -39,6 +39,19 @@ El MVC se descompone en tres componentes clave: el Modelo (gestiona los datos y 
 En este proyecto esta aplicacion de la arquitectura se puede ver reflejada en las carpetas Model, View, Controller donde cada una tiene su funcionalidad que permitira que el sistema web funcione, donde dentro de estas carpetas existen subcarpetas que dividen aun mas por funcionalidad por ejemplo cada parte de la arquitectura de MVC contiene:
 Tambien cabe recalcar que la carpeta resources son los recursos externos a la arquitectura de MVC, teniendo archivos como CSS,JS,Imagenes, etc.
 
+Para la instalación se debe de tener la base de datos en un servidor local en nuestro caso utilizaremos el mysql dentro de xampp server, mediante CMD.
+ 
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/62441a5e-fdaa-4317-953e-f3a430f67d9c)
+
+Dentro de este inicializaremos el entorno de la siguiente manera:
+ ![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/85a2114d-d6ac-45d6-9f43-d1e86ed5498f)
+
+Una vez crearemos una BD con el nombre que deseemos y ahí adjuntaremos las siguientes tablas que se encuentran en el repositorio dentro de la carpeta model, llamado “tecnolab.sql” y dentro del entorno de mysql en CMD copiaremos las tablas para poder ejecutar el proyecto en un servidor local.
+
+ ![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/ffde77dc-f7f4-4ef6-9fc1-07ec63cea49b)
+
+Al final debe de verse de la siguiente forma:
+ 
 
 ![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/e19f4281-5e0d-44f8-a623-f048436742a8)
 
@@ -54,6 +67,7 @@ Una vez crearemos una BD con el nombre que deseemos y ahí adjuntaremos las sigu
 Al final debe de verse de la siguiente forma:
 
 
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/ee20beba-d2b6-4df4-a661-e69ef8350c00)
 
 Implementación del MVC en PHP
 La implementación del MVC en PHP promueve una estructura clara y organizada que mejora la eficiencia y mantenibilidad del código. Esto es crucial en aplicaciones como la nuestra, donde la precisión en la presentación y actualización de inventarios de hardware es vital.
