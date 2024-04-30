@@ -84,5 +84,24 @@ El MVC es fundamental en nuestro proyecto de e-commerce, facilitando la implemen
 ![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/68521fc1-d88c-45c0-8d97-4ec22df1ebcd)
 
 # Conclusión
-El MVC es más que un patrón de diseño; es una estrategia fundamental para el desarrollo moderno de aplicaciones web que requieren claridad estructural, mantenimiento simplificado, y capacidad para evolucionar. Aunque presenta desafíos, los beneficios de adoptar MVC en proyectos complejos, como nuestra tienda en línea de componentes de hardware, son indiscutibles.
+El MVC es más que un patrón de diseño; es una estrategia fundamental para el desarrollo moderno de aplicaciones web que requieren claridad estructural, mantenimiento simplificado, y capacidad para evolucionar. Aunque presenta desafíos, los beneficios de adoptar MVC en proyectos complejos, como nuestra tienda en línea de componentes de hardware, son indiscutibles. 
 Al final se logra concluir con la necesidad de la empresa aplicando el patron de diseño MVC de manera exitosa y garantizando una alta eficiencia en los recursos y seguridad del sistema web, para la empresa Tecnolab.
+Teniendo apartados como un Login, un registro, un carrito, un root user, un low level user, productos.
+--Registro
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/f7cf83f1-16e3-40dd-b511-37db94c384f7)
+
+--Login
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/8aa3b6e7-6f22-4e54-8896-e273b3d477f0)
+
+--Carrito
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/f2906dfe-e995-497b-ab2e-611d4268d5ef)
+
+--Root user
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/0bc899dd-d519-4e94-93f0-79fefbf9f0cc)
+
+--Low level user
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/b2b331f4-3fef-4392-89ff-5a96ce3b9203)
+
+--Productos
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/b86658c9-5743-44b6-8b95-28228e848382)
+
