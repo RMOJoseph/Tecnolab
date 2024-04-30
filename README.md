@@ -100,6 +100,11 @@ Teniendo apartados como un Login, un registro, un carrito, un root user, un low 
 ![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/0bc899dd-d519-4e94-93f0-79fefbf9f0cc)
 
 
+--Low level user
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/b2b331f4-3fef-4392-89ff-5a96ce3b9203)
+
+--Productos
+![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/b86658c9-5743-44b6-8b95-28228e848382)
 
 #referencias
 
@@ -110,11 +115,3 @@ Asociación de Desarrolladores Web (2023). Patrón de Diseño MVC: Fundamentos y
 Rodríguez, L. M. (2021). Desarrollo Web Avanzado: Implementación Efectiva del Modelo Vista Controlador. [Versión electrónica]. Editorial Omega. DOI: 10.1234/abcd5678
  Instituto de Tecnología y Desarrollo (ITD). (2016). Guía de Buenas Prácticas: Implementación del Patrón MVC en Desarrollo Web. Informe Técnico No. 123. Recuperado de https://www.itd.org/informes/guia-mvc-2016
 Smith, J. (2018). Understanding MVC: A Comprehensive Guide to Model-View-Controller Architecture. New York, NY: Publisher.
-
-
---Low level user
-![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/b2b331f4-3fef-4392-89ff-5a96ce3b9203)
-
---Productos
-![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/b86658c9-5743-44b6-8b95-28228e848382)
-
