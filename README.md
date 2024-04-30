@@ -42,6 +42,16 @@ Tambien cabe recalcar que la carpeta resources son los recursos externos a la ar
 
 ![image](https://github.com/RMOJoseph/Tecnolab.github.io/assets/142190106/e19f4281-5e0d-44f8-a623-f048436742a8)
 
+Este sistema web busca solucionar la problematica de la empresa Tecnolab debido a que les gustaria extender sus ventas mediante el e-commerce 
+Para la instalación se debe de tener la base de datos en un servidor local en nuestro caso utilizaremos el mysql dentro de xampp server, mediante CMD.
+ 
+
+Dentro de este inicializaremos el entorno de la siguiente manera:
+
+ 
+Una vez crearemos una BD con el nombre que deseemos y ahí adjuntaremos las siguientes tablas que se encuentran en el repositorio dentro de la carpeta model, llamado “tecnolab.sql” y dentro del entorno de mysql en CMD copiaremos las tablas para poder ejecutar el proyecto en un servidor local.
+ 
+Al final debe de verse de la siguiente forma:
 
 
 
